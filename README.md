@@ -1,3 +1,7 @@
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodJuraev&show_icons=true&theme=radical)
+
+
+
 I'm Bekzod Juraev, a dedicated Django Python developer with a proven track record of building robust and scalable web applications. My coding journey began with a passion for creating innovative solutions that make a real impact.
 
 🔧 Technical Expertise:
