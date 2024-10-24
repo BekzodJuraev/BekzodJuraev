@@ -33,11 +33,11 @@ I'm Bekzod Juraev, a dedicated Django Python developer with a proven track recor
     HackerRank Certificate: Problem Solving (Basic).
     Uzbekcoders (Udacity Certificate): Full-Stack Development.
     Coursera Certifications: Django for Everybody (Web Application Technologies and Django, Building Web Applications in Django, Django Features and Libraries, Using JavaScript and JSON in Django).
+    EPAM:Python Core
 
 🌐 Language Skills:
 Fluent in English, Russian, Uzbek, and Tajik.
 
-🔗 GitHub:
-Explore my projects and contributions on https://github.com/BekzodJuraev
+
 
 Let's connect and explore opportunities to collaborate on exciting projects! Whether it's Django, Python, web development, or Telegram bot development, I'm always ready to contribute my skills and expertise.
